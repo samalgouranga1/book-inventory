@@ -16,7 +16,7 @@ public class Book implements Serializable {
 	private String title;
 	private String catagories;
 	private String author;
-	
+	//setter & getter
 	
 	public long getId() {
 		return id;
