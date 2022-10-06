@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bookinventory.BookInventoryApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.117 s - in com.bookinventory.BookInventoryApplicationTests

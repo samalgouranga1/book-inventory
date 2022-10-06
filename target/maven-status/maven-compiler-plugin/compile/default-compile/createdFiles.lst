@@ -1,0 +1,5 @@
+com\bookinventory\BookInventoryApplication.class
+com\bookinventory\Exception\BookNotFoundException.class
+com\bookinventory\controller\BookController.class
+com\bookinventory\entity\Book.class
+com\bookinventory\repository\BookRepository.class
